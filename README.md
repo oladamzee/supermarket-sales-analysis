@@ -5,7 +5,9 @@ OBJECTIVE
 
    This project aims to clean and process supermarket sales data to identify patterns,top-selling products, and revenue insight to support business decisions
 DASHBOARD
-<a href = "https://github.com/oladamzee/supermarket-sales-analysis/blob/main/viz%201.png">
+
+- <a href = "https://github.com/oladamzee/supermarket-sales-analysis/blob/main/viz%201.png">
+https://github.com/oladamzee/supermarket-sales-analysis/blob/main/viz%202.png
 ## 
 INSIGHT
 1. Atlanta Sales Dynamics & By generating considerable total revenues, Atlanta is one of the cities with the lowest number of products ordered. This disparity is due to Atlanta having the highest average     product prices, which results in significant revenue despite low sales volume.
