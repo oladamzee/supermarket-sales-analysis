@@ -6,7 +6,7 @@ OBJECTIVE
    This project aims to clean and process supermarket sales data to identify patterns,top-selling products, and revenue insight to support business decisions
 DASHBOARD
 
-- <a href = "https://github.com/oladamzee/supermarket-sales-analysis/blob/main/viz%201.png">
+ <a href = "(https://github.com/oladamzee/supermarket-sales-analysis/blob/main/SUPERSTORE%2003.jpg)">
 https://github.com/oladamzee/supermarket-sales-analysis/blob/main/viz%202.png
 ## 
 INSIGHT
